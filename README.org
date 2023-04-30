@@ -1,0 +1,7 @@
+* About
+
+Collection of scripts about code and number systems conversion.
+
+* Utilities
+
+- text2morse :: Convert an ASCII text to morse code.
