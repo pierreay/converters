@@ -1,6 +1,6 @@
 * About
 
-Collection of scripts about code and number systems conversion.
+Collection of scripts about code, number systems and units conversion.
 
 * Utilities
 
