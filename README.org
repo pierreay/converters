@@ -1,5 +1,7 @@
 * About
 
+Converters and coders.
+
 Collection of scripts about code, number systems and units conversion.
 
 * Utilities
